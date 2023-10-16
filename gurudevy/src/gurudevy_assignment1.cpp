@@ -1,6 +1,6 @@
 /**
  * @gurudevy_assignment1
- * @author  Gurudev Yalagala <ubitname@buffalo.edu>
+ * @author  Gurudev Yalagala <gurudevy@buffalo.edu>
  * @version 1.0
  *
  * @section LICENSE
