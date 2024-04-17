@@ -1,9 +1,4 @@
-CSE4/589: PA1 Description
-
-CSE 489/589
-
-Programming Assignment 1
-
+## Chat and File share clients over TCP connections.
 Text Chat Application
 1. Objectives
 
