@@ -1,4 +1,4 @@
-## Chat and File share clients over TCP connections.
+## Chat and File share over TCP connections.
 Text Chat Application
 1. Objectives
 
