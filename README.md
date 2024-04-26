@@ -15,9 +15,7 @@ Beej Socket Guide: http://beej.us/guide/bgnet
 
 #### 3.1 Programming environment
 
-You will write C (or C++) code that compiles under the GCC (GNU Compiler Collection) environment. Furthermore, you should ensure that your code compiles and operates correctly on 5 dedicated hosts/machines, which will be provided to you by the instructor. Your code should successfully compile using the version of gcc (for C code) or g++ (for C++ code) found on the 5 dedicated hosts and should function correctly when executed.
-
-NOTE: You are NOT allowed to use any external (not present by default on the dedicated hosts) libraries for the socket programming part. Bundling of code (or part of it) from external libraries with your source will not be accepted either. You can however use external modules for other parts of the assignment (like maintaining a linked list). If you are not sure whether you are allowed to use an external library or not, consult with the course staff. Further, your implementation should NOT invoke any external binaries (e.g., ifconfig, nslookup, etc.) and should NOT involve any disk I/O unless explicitly mentioned in the PA description.
+You will write C (or C++) code that compiles under the GCC (GNU Compiler Collection) environment. Furthermore, you should ensure that your code compiles and operates correctly on 5 dedicated hosts/machines, Your code should successfully compile using the version of gcc (for C code) or g++ (for C++ code) found on the 5 dedicated hosts and should function correctly when executed.
 
 #### 3.2 Sockets
 
